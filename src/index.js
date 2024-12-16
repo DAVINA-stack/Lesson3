@@ -8,5 +8,5 @@ if (booking =" confirm")(
 )else if (booking == "cancel")(
     alert("appointment cancelled");
 )else if(booking =="reschedule")(
-    alert("reschedule");
+    alert("reschedule")
 )
